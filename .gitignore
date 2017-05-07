@@ -1,0 +1,8 @@
+# ignore cache folder
+/silverstripe-cache/
+
+# ignore build tools
+/tools/phing-metadata
+
+# ignore composer vendor folder
+/vendor/
