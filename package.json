@@ -1,0 +1,29 @@
+{
+  "name": "nldarts",
+  "version": "1.0.0",
+  "description": "nldarts - best dutch news and information medium",
+  "main": "grunt.js",
+  "dependencies": {},
+  "devDependencies": {
+    "blocss": "^7.0.0-alpha",
+    "grunt": "~0.4.0",
+    "grunt-contrib-sass": "0.3.0",
+    "grunt-contrib-watch": "~0.4.4"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samdegroot1/nlDarts.git"
+  },
+  "keywords": [
+    "nldarts"
+  ],
+  "author": "Sam de Groot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samdegroot1/nlDarts/issues"
+  },
+  "homepage": "https://github.com/samdegroot1/nlDarts#readme"
+}

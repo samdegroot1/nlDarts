@@ -1,2 +1,2 @@
 # nlDarts
-nldarts - news and information medium of darts
+nldarts - best dutch dart news and information medium
