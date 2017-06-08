@@ -18,7 +18,7 @@
 
 		<% include Header %>
 
-		<div class="main" role="main">
+		<div class="wrapper" role="main">
 				$Layout
 		</div>
 

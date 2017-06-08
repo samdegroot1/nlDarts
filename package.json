@@ -2,13 +2,13 @@
   "name": "nldarts",
   "version": "1.0.0",
   "description": "nldarts - best dutch news and information medium",
-  "main": "grunt.js",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "blocss": "^7.0.0-alpha",
     "grunt": "~0.4.0",
-    "grunt-contrib-sass": "0.3.0",
-    "grunt-contrib-watch": "~0.4.4"
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-watch": "latest"
   },
   "scripts": {
     "test": "test"

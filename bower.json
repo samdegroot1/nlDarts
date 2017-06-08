@@ -1,0 +1,20 @@
+{
+  "name": "nldarts",
+  "description": "nldarts - best dutch news and information medium",
+  "main": "index.js",
+  "authors": [
+    "Sam de Groot"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nldarts"
+  ],
+  "homepage": "https://github.com/samdegroot1/nlDarts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
