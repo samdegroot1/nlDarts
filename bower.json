@@ -5,6 +5,10 @@
   "authors": [
     "Sam de Groot"
   ],
+  "dependencies" : {},
+  "devDependencies" : {
+      "blocss": "^7.0.0-alpha"
+  },
   "license": "ISC",
   "keywords": [
     "nldarts"
