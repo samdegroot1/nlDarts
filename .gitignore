@@ -1,5 +1,6 @@
 # ignore cache folder
 /silverstripe-cache/
+.sass-cache/
 
 # ignore build tools
 /tools/phing-metadata
@@ -8,3 +9,8 @@
 /vendor/
 /node_modules/
 /bower_components/
+
+# ignore compiled css files
+themes/nldarts/css/style.css
+themes/nldarts/css/style.min.css
+themes/nldarts/css/style.css.map
