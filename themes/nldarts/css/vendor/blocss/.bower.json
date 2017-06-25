@@ -1,0 +1,32 @@
+{
+  "name": "blocss",
+  "version": "7.0.0-alpha",
+  "homepage": "https://github.com/Blocss/blocss",
+  "authors": [
+    "Bram Smulders <bram@bramsmulders.com>"
+  ],
+  "description": "Blocss is a small but powerfull css framework designed specially for serious developers.",
+  "main": "lib/blocss.scss",
+  "keywords": [
+    "blocss",
+    "css",
+    "oocss",
+    "atomic design",
+    "BEM"
+  ],
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "CONTRIBUTING.md"
+  ],
+  "license": "MIT",
+  "_release": "7.0.0-alpha",
+  "_resolution": {
+    "type": "version",
+    "tag": "v7.0.0-alpha",
+    "commit": "be39f174839e94221b99db82586f619b1f234d50"
+  },
+  "_source": "https://github.com/Blocss/blocss.git",
+  "_target": "^7.0.0-alpha",
+  "_originalSource": "blocss"
+}
